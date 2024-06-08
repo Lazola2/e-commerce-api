@@ -1,0 +1,75 @@
+{
+    "products": [
+      {
+        "name": "Red Rose",
+        "species": "Rosa",
+        "description": "A classic symbol of love and passion, our Red Roses are perfect for romantic occasions.",
+        "price": 2.50,
+        "imageUrl": "https://example.com/images/red_rose.jpg"
+      },
+      {
+        "name": "White Lily",
+        "species": "Lilium",
+        "description": "Elegant and pure, White Lilies are ideal for weddings and formal events.",
+        "price": 3.00,
+        "imageUrl": "https://example.com/images/white_lily.jpg"
+      },
+      {
+        "name": "Sunflower",
+        "species": "Helianthus",
+        "description": "Bright and cheerful, Sunflowers are perfect for adding a touch of sunshine to any room.",
+        "price": 1.75,
+        "imageUrl": "https://example.com/images/sunflower.jpg"
+      },
+      {
+        "name": "Tulip",
+        "species": "Tulipa",
+        "description": "Available in a variety of colors, Tulips are a versatile choice for any bouquet.",
+        "price": 2.00,
+        "imageUrl": "https://example.com/images/tulip.jpg"
+      },
+      {
+        "name": "Orchid",
+        "species": "Orchidaceae",
+        "description": "Exotic and stunning, Orchids add a touch of luxury to any arrangement.",
+        "price": 5.00,
+        "imageUrl": "https://example.com/images/orchid.jpg"
+      },
+      {
+        "name": "Daisy",
+        "species": "Bellis",
+        "description": "Simple and charming, Daisies are perfect for creating a fresh and innocent look.",
+        "price": 1.25,
+        "imageUrl": "https://example.com/images/daisy.jpg"
+      },
+      {
+        "name": "Peony",
+        "species": "Paeonia",
+        "description": "With their large, fluffy blooms, Peonies are a favorite for bridal bouquets.",
+        "price": 4.00,
+        "imageUrl": "https://example.com/images/peony.jpg"
+      },
+      {
+        "name": "Lavender",
+        "species": "Lavandula",
+        "description": "Known for their soothing scent, Lavender flowers are perfect for relaxation and aromatherapy.",
+        "price": 2.75,
+        "imageUrl": "https://example.com/images/lavender.jpg"
+      },
+      {
+        "name": "Carnation",
+        "species": "Dianthus",
+        "description": "With their ruffled petals, Carnations are a popular choice for a variety of occasions.",
+        "price": 1.50,
+        "imageUrl": "https://example.com/images/carnation.jpg"
+      },
+      {
+        "name": "Hydrangea",
+        "species": "Hydrangea",
+        "description": "Known for their large, spherical flower heads, Hydrangeas are a stunning addition to any arrangement.",
+        "price": 3.50,
+        "imageUrl": "https://example.com/images/hydrangea.jpg"
+      }
+    ]
+  }
+  
